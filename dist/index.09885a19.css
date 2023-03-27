@@ -20,7 +20,7 @@ p {
   margin: 5% auto;
 }
 
-headline {
+h1 {
   font-family: Open sans, sans-serif;
   font-size: 232%;
 }
@@ -92,7 +92,7 @@ intro {
   }
 }
 
-subheadline {
+h2 {
   margin-bottom: 2.6%;
   font-family: Open sans, sans-serif;
   font-size: 210%;
