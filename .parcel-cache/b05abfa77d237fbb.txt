@@ -1,4 +1,4 @@
-4261
+4265
 54E:\affiliate\node_modules\svgo\plugins\_collections.js133243676530556803 0
 86E:\affiliate\node_modules\@swc\helpers\src\_class_static_private_field_destructure.mjs133243676594539244 0
 35E:\affiliate\node_modules\@mischnic133243676501366936 1
@@ -34,7 +34,7 @@
 59E:\affiliate\node_modules\@parcel\core\src\public\Bundle.js133243676588197731 0
 39E:\affiliate\node_modules\lmdb\index.js133243676595398721 0
 26E:\affiliate\affiliate.css133243713527415741 0
-17E:\affiliate\dist133243720033501487 1
+17E:\affiliate\dist133243718985701392 1
 53E:\affiliate\node_modules\@parcel\runtime-browser-hmr133243676555210737 1
 36E:\affiliate\node_modules\is-extglob133243676525741021 1
 54E:\affiliate\node_modules\node-addon-api\noexcept.gypi133243676528751316 0
@@ -143,6 +143,7 @@
 68E:\affiliate\node_modules\@parcel\transformer-babel\lib\constants.js133243676551367848 0
 37E:\affiliate\node_modules\is-arrayish133243676575593375 1
 49E:\affiliate\node_modules\nullthrows\package.json133243676516285971 0
+40E:\affiliate\dist\index.70bde3d6.css.map133243718985651418 0
 47E:\affiliate\node_modules\is-json\test\index.js133243676575743287 0
 50E:\affiliate\node_modules\lmdb\src\compression.cpp133243676586656715 0
 55E:\affiliate\node_modules\@parcel\fs\lib\browser.js.map133243676580549851 0
@@ -1521,6 +1522,7 @@
 66E:\affiliate\node_modules\caniuse-lite\data\features\nav-timing.js133243676615514289 0
 52E:\affiliate\node_modules\@parcel\graph\src\types.js133243676552947996 0
 52E:\affiliate\node_modules\msgpackr-extract\README.md133243676538418091 0
+37E:\affiliate\dist\image2.6ce0d3bc.jpg133243718974759722 0
 46E:\affiliate\node_modules\ordered-binary\.idea133243676545770498 1
 47E:\affiliate\node_modules\ordered-binary\assets133243676540284296 1
 49E:\affiliate\node_modules\ordered-binary\index.js133243676532358027 0
@@ -3092,6 +3094,7 @@
 70E:\affiliate\node_modules\@jridgewell\set-array\dist\set-array.mjs.map133243676527452988 0
 62E:\affiliate\node_modules\caniuse-lite\data\features\jpegxr.js133243676613414818 0
 76E:\affiliate\node_modules\@parcel\core\test\fixtures\config-plugin-not-found133243676580559853 1
+36E:\affiliate\dist\index.70bde3d6.css133243718985561462 0
 76E:\affiliate\node_modules\caniuse-lite\data\features\js-regexp-lookbehind.js133243676613424951 0
 51E:\affiliate\node_modules\@parcel\fs\lib\browser.js133243676574418911 0
 79E:\affiliate\node_modules\caniuse-lite\data\features\kerning-pairs-ligatures.js133243676613554909 0
@@ -4257,6 +4260,7 @@
 41E:\affiliate\node_modules\.bin\terser.ps1133243676724881473 0
 39E:\affiliate\dist\affiliate.0bcf7001.js133243677603375366 0
 43E:\affiliate\dist\affiliate.0bcf7001.js.map133243677603593172 0
+37E:\affiliate\dist\image1.8f131237.jpg133243718974749727 0
 37E:\affiliate\dist\image2.3f26e003.jpg133243677603425339 0
 36E:\affiliate\dist\index.09885a19.css133243677603245446 0
-28E:\affiliate\dist\index.html133243720033471524 0
+28E:\affiliate\dist\index.html133243718985551466 0

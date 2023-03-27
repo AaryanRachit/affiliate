@@ -34,7 +34,7 @@
 59E:\affiliate\node_modules\@parcel\core\src\public\Bundle.js133243676588197731 0
 39E:\affiliate\node_modules\lmdb\index.js133243676595398721 0
 26E:\affiliate\affiliate.css133243713527415741 0
-17E:\affiliate\dist133243720033501487 1
+17E:\affiliate\dist133243677603593172 1
 53E:\affiliate\node_modules\@parcel\runtime-browser-hmr133243676555210737 1
 36E:\affiliate\node_modules\is-extglob133243676525741021 1
 54E:\affiliate\node_modules\node-addon-api\noexcept.gypi133243676528751316 0
@@ -4259,4 +4259,4 @@
 43E:\affiliate\dist\affiliate.0bcf7001.js.map133243677603593172 0
 37E:\affiliate\dist\image2.3f26e003.jpg133243677603425339 0
 36E:\affiliate\dist\index.09885a19.css133243677603245446 0
-28E:\affiliate\dist\index.html133243720033471524 0
+28E:\affiliate\dist\index.html133243677603355394 0
