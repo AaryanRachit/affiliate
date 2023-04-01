@@ -99,7 +99,7 @@ h2 {
   display: block;
 }
 
-steps {
+.step {
   margin-left: .7%;
   font-size: 128%;
   line-height: 1.5;
@@ -135,14 +135,8 @@ allst {
   margin-left: 3%;
 }
 
-step1 {
-  margin-left: .7%;
-  font-size: 128%;
-  line-height: 1.5;
-  display: block;
-}
-
 img {
+  width: 100%;
   box-shadow: 0 .5px 5px #485460;
 }
 
