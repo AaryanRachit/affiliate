@@ -211,3 +211,11 @@ h3 {
     font-size: 140%;
     margin-bottom: 1%;
 }
+
+.intro {
+    background-color: #ebfbee;
+    display: flex; 
+    padding: 1%;
+    background-image: url(homeimg.jpg);
+    height: 1000px;
+}
