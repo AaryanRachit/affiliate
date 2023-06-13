@@ -40,7 +40,7 @@ let data1 = `<h4>Ecommerce</h4>
 <a href="#" class="anc"><li>lorem ipsum equador hallobna.</li></a>
 </ul>
 `
-data6[0].innerHTML = `<a style="text-decoration: none;" href="../home/home.htm"><span class="homee">knowlak</span></a> <span class="sp" style="margin-right: 10%;">&#8801;</span>`
+data6[0].innerHTML = `<a style="text-decoration: none;" href="../home.htm"><span class="homee">knowlak</span></a> <span class="sp" style="margin-right: 10%;">&#8801;</span>`
 let el = document.querySelector('.sp')
 if(data2 != null) {
     data2.innerHTML = 'Note: We want to let you know that we might earn a commission when you click on some of our links.'
