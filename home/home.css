@@ -345,13 +345,6 @@ ul li:last-child {
         .guide:first-child {
             margin-top: 1%;
         }
-
-        /* .guide {
-        /* margin-bottom: 100%; */
-         /* row-gap: 2%;
-         grid-template-columns: 1fr;
-         grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
-        /* }  */ */
         .g {
             grid-template-rows: 1fr 1fr 1fr 1fr;
         }
