@@ -9,26 +9,18 @@ let data7 = document.getElementsByTagName('section')
 let data1 = `<h4>Ecommerce</h4>
 <ul>
 <a href= "make-money-ecommerce-site/index.htm" class="anc"><li>How to make an Ecommerce shop and make money online</li></a>
-<li>Lorem ipsum dolor sit amet consectetur adipisicing el sadet. </li>
 </ul>
 <h4>Website</h4>
 <ul>
-<li>Lorem ipsum dolor sit amet consectet smador.</li>
-<li>Lorem ipsum dolor sit amet consectetur adipisicing el.</li>
 </ul>
 <h4>Blogging</h4>
 <ul>
-<li>Lorem ipsum dolor sit amet consectetur adi prid. </li>
-<li>Lorem ipsum dolor sit amet.</li>
 </ul>
 <h4>Marketing</h4>
 <ul>
-<li>Lorem ipsus kawnt sit oct consectetur adipisicing el.</li>
-<li>Lorem ipsum dolor sit amet consectetur.</li>
 </ul>
 <h4>Products Reviews</h4>
 <ul>
-<li>Lorem ipsum dolor sit tamt contectetur adsidpres el.</li>
     <a href="6-headphones-bass/index.htm" class="anc"><li>6 best headphones with powerful bass</li></a>
 </ul>
 <h4>Tech</h4>
@@ -37,7 +29,6 @@ let data1 = `<h4>Ecommerce</h4>
 </ul>
 <h4>Other</h4>
 <ul>
-<a href="#" class="anc"><li>lorem ipsum equador hallobna.</li></a>
 </ul>
 `
 data6[0].innerHTML = `<span class="homee">knowlak</span> <span class="sp" style="margin-right: 10%;">&#8801;</span>`
